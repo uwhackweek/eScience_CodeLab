@@ -69,7 +69,12 @@ SETUP INSTRUCTIONS GO HERE
 
 ## Projects
 
-[list of ECL projects]
+<p align="left">
+<img src="images/ICESat-2_logo.png" alt="ICESAT-2" width="300"> 
+<br>
+</p>
+
+Tutorial curation of 5-years of hackweek learning materials.
 
 
 ## Contributors
