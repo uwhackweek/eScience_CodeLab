@@ -50,14 +50,23 @@ To provide an asynchronous collaboration space that exists beyond the workshop, 
 
 
 ## Who is it for?
-[Insert description of the target audience]
+CodeLab is an opportunity for scientists across all domains to create data management tools and workflows in a supportive community informed by best practices in open science and open software development.
+
+If you are aiming to achieve any of the following goals in your research, CodeLab may be a good fit:
+
+1. Use GitHub to create, iterate, and collaborate on open-source data management and visualization tools for specific research domains.
+2. Learn development best practices for collaborative projects and code alongside researchers from multiple domains.
+3. Participate in an asynchronous development model where progress and collaboration are tracked via GitHub PR and discussion threads, providing an audit trail of work for casual and deep dive levels of engagement.
+4. A physical space to meet at the UW campus, should you need the added incentive of accountability to engage in the work at a specific time and place.
+5. The option to attend virtually if you are outside the Seattle area or unable to make it to the WRF Data Studio.
 
 
 ## How to participate
 
-1. Review our onboarding information and rules of community guidelines **[insert link]**
-2. [Register your attendance](https://calendly.com/mweldens-uw/codelab?preview_source=et_card&month=2025-04) at one of our upcoming sessions.
-3. [View our discussion thread](https://github.com/uwhackweek/eScience_CodeLab/discussions) to start or join an ongoing project or conversation. 
+1. Register your attendance for one of our upcoming sessions. The format alternates each week between in-person with a virtual option, or virtual only session every other week. The links below will take you to our Google Calendar appointment page: 
+[Option A: In-person at the WRF Data Studio and/or via Zoom](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ12rAR0SiS1XcEepwp7RKukj_NCowM_8SgXe-RPMrBQlY25muYdDmWXk01d6tqyTPjmmZtlpRHJ)
+[Option B: A Zoom only session](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ceijAiIMI_7uADu2flQkoRKnrL-YSvzxlaimt_ZAMoEgTX93K2TEthhdgT0-wyXiJBw9I96ce) 
+2. [View our discussion thread](https://github.com/uwhackweek/eScience_CodeLab/discussions) to start or join an ongoing project or conversation. 
 
 ## Tech Stack
 To ensure you hit the ground running at your first ELC session we highly encourage setting up the following tools in advance. Having trouble with the setup process? We're happy to help you troubleshoot at the WRF Data Studio during [office hours](https://escience.washington.edu/using-data-science/office-hours/) or the [ELC session](https://calendly.com/mweldens-uw/codelab?preview_source=et_card&month=2025-04) if needed.
