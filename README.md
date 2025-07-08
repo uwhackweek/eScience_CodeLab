@@ -30,7 +30,7 @@ eScience CodeLab (ECL) is a collaborative workgroup inspired by the ongoing [hac
 
 ### ECL was created with the following aims:
 >1. Create a synthesis of the longer format [hackweek](https://escience.washington.edu/using-data-science/hackweeks/) model and weekly [office hours](https://escience.washington.edu/using-data-science/office-hours/) through ongoing, bi-weekly sessions that foster data science education, community building, and project work with an emphasis on open and reproducible science.
->2. Provide peer-to-peer code review, mentorship, and project management experience to those working this large data sets and emergent cloud storage and open source tools. 
+>2. Provide peer-to-peer code review, mentorship, and project management experience to those working with open source data science tools. 
 
 ## Location
 
@@ -69,22 +69,47 @@ If you are aiming to achieve any of the following goals in your research, CodeLa
 2. [View our discussion thread](https://github.com/uwhackweek/eScience_CodeLab/discussions) to start or join an ongoing project or conversation. 
 
 ## Tech Stack
-To ensure you hit the ground running at your first ELC session we highly encourage setting up the following tools in advance. Having trouble with the setup process? We're happy to help you troubleshoot at the WRF Data Studio during [office hours](https://escience.washington.edu/using-data-science/office-hours/) or the [ELC session](https://calendly.com/mweldens-uw/codelab?preview_source=et_card&month=2025-04) if needed.
+We are presently focused on developing Python software in support of several NASA missions. 
+These are resources that newcomers may find useful to prepare for one of our sessions:
 
-```
-SETUP INSTRUCTIONS GO HERE
-```
+* [setting up and configuring Git](https://snowex-2024.hackweek.io/preliminary/git.html)
+* [using Python for geospatial analysis](https://foundations.projectpythia.org/)
+
+Having trouble with the setup process? We're happy to help you troubleshoot at the WRF Data Studio during [office hours](https://escience.washington.edu/using-data-science/office-hours/) or the [ELC session](https://calendly.com/mweldens-uw/codelab?preview_source=et_card&month=2025-04) if needed.
 
 
-## Projects
+
+## Current Projects
+
+### NASA ICESat-2 Training and Software Development
 
 <p align="left">
-<img src="images/ICESat-2_logo.png" alt="ICESAT-2" width="300"> 
+<img src="images/ICESat-2_logo.png" alt="ICESAT-2" width="200"> 
 <br>
 </p>
 
-Tutorial curation of 5-years of hackweek learning materials.
+We are using CodeLab sessions to review tutorials from past ICESat-2 hackweeks. We are updating content and putting everything together into a comprehensive Jupyter Notebook. We are also making prepartions for our [August Hackweek](https://2025.hackweek.io/), getting clear on tasks and projects for us to work on when we meet in person.
 
+#### Tasks and Learning Opportunities
+
+* collaborate with ICESat-2 experts develop technical training following the [Project Pythia Cookbook](https://projectpythia.org/cookbook-guide.html) approach
+* help review and test tutorial content
+* contribute software development ideas for accessing ICESat-2 data products
+
+### NASA SnowEx Training and Software Development
+
+<p align="left">
+<img src="https://github.com/snowex-hackweek/website-2024/blob/main/book/logo.png?raw=true" alt="ICESAT-2" width="200"> 
+<br>
+</p>
+
+Similar to the ICESat-2 work above, we are curating tutorials from past SnowEx hackweeks and helping to improve data access protocols for NASA snow data products.
+
+#### Tasks and Learning Opportunities
+
+* collaborate with ICESat-2 experts develop technical training following the [Project Pythia Cookbook](https://projectpythia.org/cookbook-guide.html) approach
+* help review and test tutorial content
+* contribute to database design for the [SnowExSQL database](https://snowexsql.readthedocs.io/en/latest/readme.html).
 
 ## Contributors
 <a href="https://github.com/uwhackweek/eScience_CodeLab/graphs/contributors">
