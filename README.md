@@ -20,17 +20,17 @@
 </p>
 
 <p align="center">
-<img src="images/uw_combo.svg" alt="eScience_CodeLab"> 
+<img src="images/uw_combo.svg" alt="eScience_CodeLab">
 <br>
 </p>
 
 ## What is CodeLab?
 
-eScience CodeLab (ECL) is a collaborative workgroup inspired by the ongoing [hackweek events hosted by the eScience Institute at the University of Washington](https://escience.washington.edu/using-data-science/hackweeks/) and the [earthaccess community model](nsidc.github.io/earthaccess/). 
+eScience CodeLab (ECL) is a collaborative workgroup inspired by the ongoing [hackweek events hosted by the eScience Institute at the University of Washington](https://escience.washington.edu/using-data-science/hackweeks/) and the [earthaccess community model](nsidc.github.io/earthaccess/).
 
 ### ECL was created with the following aims:
 >1. Create a synthesis of the longer format [hackweek](https://escience.washington.edu/using-data-science/hackweeks/) model and weekly [office hours](https://escience.washington.edu/using-data-science/office-hours/) through ongoing, bi-weekly sessions that foster data science education, community building, and project work with an emphasis on open and reproducible science.
->2. Provide peer-to-peer code review, mentorship, and project management experience to those working with open source data science tools. 
+>2. Provide peer-to-peer code review, mentorship, and project management experience to those working with open source data science tools.
 
 ## Location
 
@@ -41,12 +41,12 @@ eScience CodeLab (ECL) is a collaborative workgroup inspired by the ongoing [hac
   <br>
 </p>
 
-ECL is held on a variable, bi-weekly schedule, depending on the time of year, at the University of Washington's [WRF Data Science Studio](https://maps.app.goo.gl/mCw75ykbLPHFnRcg9). See our public calendar for an up to date list of upcoming meetings.
+ECL is held on a variable, bi-weekly schedule, depending on the time of year, at the University of Washington's [WRF Data Science Studio](https://maps.app.goo.gl/mCw75ykbLPHFnRcg9).
 
 ## Event format
-The ECL format includes a 15-minute introduction from eScience Institute staff for newcomers, followed by 1.45 hour colloborative working session for attendees. In-person collaboration is preferred, although remote participation is possible for certain projects through Zoom.
+The ECL format includes a 15-minute introduction from eScience Institute staff for newcomers, followed by a collaborative working session for attendees. In-person collaboration is preferred, although remote participation is possible for certain projects through Zoom.
 
-To provide an asynchronous collaboration space that exists beyond the workshop, ECL utilizes the disccusion feature available in GitHub. This has two major benefits over Slack and email, specifically, a tighter intergration with the GitHub development architecture, and as a means to preserve historical conversations in a more persistent workspace.
+To provide an asynchronous collaboration space that exists beyond the workshop, ECL utilizes the discussion feature available in GitHub. This has two major benefits over Slack and email, specifically, a tighter intergration with the GitHub development architecture, and as a means to preserve historical conversations in a more persistent workspace.
 
 
 ## Who is it for?
@@ -58,33 +58,46 @@ If you are aiming to achieve any of the following goals in your research, CodeLa
 2. Learn development best practices for collaborative projects and code alongside researchers from multiple domains.
 3. Participate in an asynchronous development model where progress and collaboration are tracked via GitHub PR and discussion threads, providing an audit trail of work for casual and deep dive levels of engagement.
 4. A physical space to meet at the UW campus, should you need the added incentive of accountability to engage in the work at a specific time and place.
-5. The option to attend virtually if you are outside the Seattle area or unable to make it to the WRF Data Studio.
 
 
 ## How to participate
 
-1. Register your attendance for one of our upcoming sessions. The format alternates each week between in-person with a virtual option, or virtual only session every other week. The links below will take you to our Google Calendar appointment page: 
-[Option A: In-person at the WRF Data Studio and/or via Zoom](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ12rAR0SiS1XcEepwp7RKukj_NCowM_8SgXe-RPMrBQlY25muYdDmWXk01d6tqyTPjmmZtlpRHJ)
-[Option B: A Zoom only session](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ceijAiIMI_7uADu2flQkoRKnrL-YSvzxlaimt_ZAMoEgTX93K2TEthhdgT0-wyXiJBw9I96ce) 
-2. [View our discussion thread](https://github.com/uwhackweek/eScience_CodeLab/discussions) to start or join an ongoing project or conversation. 
+2. [View our discussion thread](https://github.com/uwhackweek/eScience_CodeLab/discussions) to start or join an ongoing project or conversation.
 
 ## Tech Stack
-We are presently focused on developing Python software in support of several NASA missions. 
+We are presently focused on developing Python software in support of several NASA missions.
 These are resources that newcomers may find useful to prepare for one of our sessions:
 
 * [setting up and configuring Git](https://snowex-2024.hackweek.io/preliminary/git.html)
 * [using Python for geospatial analysis](https://foundations.projectpythia.org/)
 
-Having trouble with the setup process? We're happy to help you troubleshoot at the WRF Data Studio during [office hours](https://escience.washington.edu/using-data-science/office-hours/) or the [ELC session](https://calendly.com/mweldens-uw/codelab?preview_source=et_card&month=2025-04) if needed.
+Having trouble with the setup process? We're happy to help you troubleshoot at the WRF Data Studio during [office hours](https://escience.washington.edu/using-data-science/office-hours/) or at a CodeLab session.
 
 
 
 ## Current Projects
 
+### NASA NISAR Capacity Building
+
+<p align="left">
+<img src="images/NISAR_Mission_Logo.png" alt="NISAR" width="200">
+<br>
+</p>
+
+After decades of anticipation, NASA recently launched the [NISAR Mission](https://science.nasa.gov/mission/nisar/) in July 2025. We are using CodeLab sessions to create a local community of NISAR data users at the University of Washington who are interested to learn from one another sharing knowledge, code, and research ideas! Biweekly meetings are in-person at the WRF Data Science Studio. We are also using [GitHub Discussions](https://github.com/uwhackweek/eScience_CodeLab/discussions?discussions_q=is%3Aopen+label%3ANISAR) to share resources and ideas asynchronously between meetings.
+
+#### Tasks and Learning Opportunities
+
+* familiarize yourself with the [NISAR mission and data products](https://nisar-docs.asf.alaska.edu)
+* work independently on a topic (figure, code, text, idea, etc) of your choice with the ability to get feedback and support from the group
+* understand the landscape of UW research that is using NISAR data
+* crowd-source future funding opportunities and collaborations
+* contribute to public resources for NISAR data users, such as a [NISAR Cookbook](https://asfopensarlab.github.io/NISAR_Cookbook/)
+
 ### NASA ICESat-2 Training and Software Development
 
 <p align="left">
-<img src="images/ICESat-2_logo.png" alt="ICESAT-2" width="200"> 
+<img src="images/ICESat-2_logo.png" alt="ICESAT-2" width="200">
 <br>
 </p>
 
@@ -99,7 +112,7 @@ We are using CodeLab sessions to review tutorials from past ICESat-2 hackweeks. 
 ### NASA SnowEx Training and Software Development
 
 <p align="left">
-<img src="https://github.com/snowex-hackweek/website-2024/blob/main/book/logo.png?raw=true" alt="ICESAT-2" width="200"> 
+<img src="https://github.com/snowex-hackweek/website-2024/blob/main/book/logo.png?raw=true" alt="ICESAT-2" width="200">
 <br>
 </p>
 
